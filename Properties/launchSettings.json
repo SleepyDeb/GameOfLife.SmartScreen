@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GameOfLife.SmartScreen": {
+      "commandName": "Project",
+      "commandLineArgs": "--alive Blue"
+    }
+  }
+}
